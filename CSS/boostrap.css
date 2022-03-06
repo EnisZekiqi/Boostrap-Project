@@ -1,0 +1,60 @@
+body{
+    background-color: #e3f2fd;
+}
+
+
+.mx-auto{
+    font-size: 25px;
+
+}
+ 
+input{
+    margin-left: 270px;
+    word-wrap: normal;
+    padding: 10px 22px;
+    border:1px solid #60839e;
+    border-radius: 5px;
+}
+.text{
+    margin-left: 1px;
+    width: 290px;
+}
+
+.card{
+    height: 520px;
+    
+}
+button{
+    width: 100px;
+    margin-left: 170px;
+}
+
+.rating{
+    text-align: center;
+}
+.last-part{
+    background-color: #507d9c;
+    color: #e3f2fd;
+    height: 300px;
+}
+.dumbell{
+    width: 100px;
+    margin-left: 65px;
+    
+}
+.btn1{
+    text-align: left;
+    width:120px;
+    margin-right: 600px;
+    margin: auto;
+    display: inline-block;
+}
+.btn2{
+    width: 120px;
+ margin: auto;
+}
+.btn3{
+    width: 120px;
+    margin: auto;
+
+}
